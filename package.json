@@ -21,7 +21,7 @@
   "homepage": "https://github.com/nsdq12345/ConnectFour#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "mongoose": "^5.6.9",
     "react": "^16.9.0",
     "react-dom": "^16.9.0"
